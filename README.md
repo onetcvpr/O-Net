@@ -3,7 +3,7 @@ O-Net submitted to CVPR 2020
 
 
 ## Important Note:
-This repository includes the codes for reproducing the O-Net submitted in CVP2020 (just for review process, but it will be transferred to GitHub after the reviewers' decision).
+This repository includes the codes for reproducing the O-Net submitted in CVP2020 (Being available in February).
 
 
 
