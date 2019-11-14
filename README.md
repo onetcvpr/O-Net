@@ -53,11 +53,9 @@ python3 PATH_TO_PACKAGE/train.py -i PATH_TO_PACKAGE/Images/train -o ~/Desktop/UN
 
 
 
-# Important Notes about the small dataset:
+## Important Notes about the small dataset:
 1) This dataset has three subfolders for "train" and "validation" sets: "image", "mask", and "mask_visualization". The "mask_visualization" is just for visualizing the masked images as four masks maximum intensity is 4 and hard to be differentiated.
 2) This is small dataset just for proving that the networks working; the performance of the networks are low on validation set and high on training set.
 
 
 
-# Final words:
-We hope this package will help researchers to use segmentation tools faster and easier. Also, we have shown the O-Net is better compared with U-Net and PSP Net.
