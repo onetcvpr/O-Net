@@ -10,7 +10,7 @@ This repository includes the codes for reproducing the O-Net submitted in CVP202
 ## Dependency:
 To install the required packages please use file "requirment.txt".
 To train the one of the networks presented in CVPR 2020, you can modify or use "train.py".
-The codes are tested on systems with Python3 and for MAC and Linux OS.
+The codes are tested on systems with Python3 and for macOS (Catalina) and Linux OS (Ubuntu 18.04).
 
 
 
@@ -56,6 +56,4 @@ python3 PATH_TO_PACKAGE/train.py -i PATH_TO_PACKAGE/Images/train -o ~/Desktop/UN
 ## Important Notes about the small dataset:
 1) This dataset has three subfolders for "train" and "validation" sets: "image", "mask", and "mask_visualization". The "mask_visualization" is just for visualizing the masked images as four masks maximum intensity is 4 and hard to be differentiated.
 2) This is small dataset just for proving that the networks working; the performance of the networks are low on validation set and high on training set.
-
-
 
